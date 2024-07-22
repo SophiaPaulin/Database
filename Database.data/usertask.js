@@ -1,0 +1,36 @@
+[{
+    "user_name":"kingsly",
+    "date":ISODate("2024-10-16"),
+    "attendance":"absent",
+    "task_submission":"failed"
+},
+{
+    "user_name":"Ajay",
+    "date":ISODate("2024-10-20"),
+    "attendance":"absent",
+    "task_submission":"failed"
+},
+{
+    "user_name":"jenifer",
+    "date":ISODate("2024-10-29"),
+    "attendance":"present",
+    "task_submission":"passes"
+},
+{
+    "user_name":"benci",
+    "date":ISODate("2024-11-01"),
+    "attendance":"absent",
+    "task_submission":"passed"
+},
+{
+    "user_name":"jeo",
+    "date":ISODate("2024-11-16"),
+    "attendance":"present",
+    "task_submission":"failed"
+},
+{
+    "user_name":"angel",
+    "date":ISODate("2024-11-17"),
+    "attendance":"present",
+    "task_submission":"passed"
+}]
